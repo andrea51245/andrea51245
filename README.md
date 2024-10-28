@@ -1,5 +1,5 @@
 <div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
-  <img src="assets/mi-foto-perfil.jpg" width="150" height="150" alt="Mi foto de perfil" style="border-radius: 50%;">
+  <img src="Imagen_de_WhatsApp_2024-05-25_a_las_23.39.24_8652ebf4-removebg-preview.png" width="150" height="150" alt="Mi foto de perfil" style="border-radius: 50%;">
 </div>
 
 # [Tu Nombre]
