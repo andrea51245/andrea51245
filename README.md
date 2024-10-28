@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="perfil.png" width="150" height="150" alt="Mi foto de perfil">
-</p>
+<div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
+  <h3 style="margin: 0; font-size: 20px;">Tu Nombre</h3>
+  <img src="perfil.png" width="150" height="150" alt="Mi foto de perfil" style="border-radius: 50%; margin-top: 10px;">
+</div>
 
-# PROGRAMADOR PARA ENTORNOS VIRTUALES Y NEGOCIOS DIGITALES
+# [Breve Introducción]
 
-[Breve introducción sobre ti, tu perfil profesional o tus objetivos laborales. Ej. “Desarrollador/a Full Stack con experiencia en proyectos de alto rendimiento, apasionado/a por el aprendizaje continuo y el trabajo en equipo.”]
+[Una breve descripción sobre tu perfil profesional, tu especialidad y tus objetivos laborales.]
 
 ---
 
@@ -15,12 +16,5 @@
 
 ---
 
-## 💻 Proyectos
-### [Nombre del Proyecto]
-- **Descripción**: Breve descripción del proyecto.
-- **Tecnologías**: Lista de tecnologías.
-- **Enlace**: [Demo o repositorio](https://tu-enlace.com)
-
----
 
 
