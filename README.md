@@ -4,7 +4,7 @@
 </p>
 </div>
 
-# [Programador para Entornos Virtuales y Negocios Digitales]
+Programador para Entornos Virtuales y Negocios Digitales
 
 [Breve introducción sobre ti, tu perfil profesional o tus objetivos laborales. Ej. “Desarrollador/a Full Stack con experiencia en proyectos de alto rendimiento, apasionado/a por el aprendizaje continuo y el trabajo en equipo.”]
 
